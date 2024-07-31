@@ -45,6 +45,6 @@ Vítor Narciso
 ## Version History
 
 * 0.1
-    * Initial repository creation, update [.gitignore](https://github.com/Vitor29Narciso/DareDataChallenge/main/README.md) and [README.md](https://github.com/Vitor29Narciso/DareDataChallenge/main/gitignore)
+    * Initial repository creation, update [.gitignore](https://github.com/Vitor29Narciso/DareDataChallenge/blob/main/.gitignore) and [README.md](https://github.com/Vitor29Narciso/DareDataChallenge/blob/main/README.md)
 * 0.2
     * Initial Release
